@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RituPatel16/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/RituPatel16/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/RituPatel16/LeetCode/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/RituPatel16/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RituPatel16/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RituPatel16/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RituPatel16/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RituPatel16/LeetCode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/RituPatel16/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/RituPatel16/LeetCode/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/RituPatel16/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RituPatel16/LeetCode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RituPatel16/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/RituPatel16/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/RituPatel16/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RituPatel16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/RituPatel16/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RituPatel16/LeetCode/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/RituPatel16/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RituPatel16/LeetCode/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
