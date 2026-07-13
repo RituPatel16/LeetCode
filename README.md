@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RituPatel16/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RituPatel16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RituPatel16/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/RituPatel16/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/RituPatel16/LeetCode/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RituPatel16/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Matrix
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RituPatel16/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/RituPatel16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/RituPatel16/LeetCode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/RituPatel16/LeetCode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
