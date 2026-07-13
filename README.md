@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/RituPatel16/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RituPatel16/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RituPatel16/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/RituPatel16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RituPatel16/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/RituPatel16/LeetCode/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RituPatel16/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/RituPatel16/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/RituPatel16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RituPatel16/LeetCode/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RituPatel16/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0217-contains-duplicate](https://github.com/RituPatel16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RituPatel16/LeetCode/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RituPatel16/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Counting
