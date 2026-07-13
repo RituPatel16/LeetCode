@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RituPatel16/LeetCode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/RituPatel16/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/RituPatel16/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0704-binary-search](https://github.com/RituPatel16/LeetCode/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RituPatel16/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Matrix
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RituPatel16/LeetCode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/RituPatel16/LeetCode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
