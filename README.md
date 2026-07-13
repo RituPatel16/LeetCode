@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/RituPatel16/LeetCode/tree/master/0704-binary-search) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RituPatel16/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/RituPatel16/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1470-shuffle-the-array](https://github.com/RituPatel16/LeetCode/tree/master/1470-shuffle-the-array) |
 ## Matrix
 |  |
 | ------- |
