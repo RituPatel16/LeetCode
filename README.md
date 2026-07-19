@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RituPatel16/LeetCode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/RituPatel16/LeetCode/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/RituPatel16/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/RituPatel16/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/RituPatel16/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/RituPatel16/LeetCode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/RituPatel16/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RituPatel16/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/RituPatel16/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/RituPatel16/LeetCode/tree/master/0877-stone-game) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/RituPatel16/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/RituPatel16/LeetCode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/RituPatel16/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/RituPatel16/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
