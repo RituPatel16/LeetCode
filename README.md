@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RituPatel16/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RituPatel16/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/RituPatel16/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/RituPatel16/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/RituPatel16/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/RituPatel16/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RituPatel16/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/RituPatel16/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RituPatel16/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RituPatel16/LeetCode/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/RituPatel16/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RituPatel16/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/RituPatel16/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RituPatel16/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/RituPatel16/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RituPatel16/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RituPatel16/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/RituPatel16/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RituPatel16/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/RituPatel16/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
