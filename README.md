@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/RituPatel16/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RituPatel16/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/RituPatel16/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/RituPatel16/LeetCode/tree/master/0258-add-digits) |
