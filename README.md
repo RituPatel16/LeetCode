@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/RituPatel16/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/RituPatel16/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RituPatel16/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0520-detect-capital](https://github.com/RituPatel16/LeetCode/tree/master/0520-detect-capital) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RituPatel16/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## String Matching
 |  |
