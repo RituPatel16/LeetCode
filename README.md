@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/RituPatel16/LeetCode/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/RituPatel16/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/RituPatel16/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/RituPatel16/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RituPatel16/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/RituPatel16/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0520-detect-capital](https://github.com/RituPatel16/LeetCode/tree/master/0520-detect-capital) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RituPatel16/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2390-removing-stars-from-a-string](https://github.com/RituPatel16/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/RituPatel16/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RituPatel16/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RituPatel16/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RituPatel16/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/RituPatel16/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/RituPatel16/LeetCode/tree/master/0496-next-greater-element-i) |
+| [2390-removing-stars-from-a-string](https://github.com/RituPatel16/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
 | ------- |
