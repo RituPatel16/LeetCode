@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RituPatel16/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RituPatel16/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0520-detect-capital](https://github.com/RituPatel16/LeetCode/tree/master/0520-detect-capital) |
+| [1544-make-the-string-great](https://github.com/RituPatel16/LeetCode/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/RituPatel16/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2390-removing-stars-from-a-string](https://github.com/RituPatel16/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/RituPatel16/LeetCode/tree/master/2942-find-words-containing-character) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/RituPatel16/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/RituPatel16/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/RituPatel16/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1544-make-the-string-great](https://github.com/RituPatel16/LeetCode/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/RituPatel16/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
