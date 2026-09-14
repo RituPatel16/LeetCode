@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/RituPatel16/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RituPatel16/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/RituPatel16/LeetCode/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/RituPatel16/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/RituPatel16/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RituPatel16/LeetCode/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RituPatel16/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -330,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/RituPatel16/LeetCode/tree/master/0056-merge-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/RituPatel16/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
