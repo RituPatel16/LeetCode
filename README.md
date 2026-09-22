@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/RituPatel16/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0697-degree-of-an-array](https://github.com/RituPatel16/LeetCode/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/RituPatel16/LeetCode/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/RituPatel16/LeetCode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/RituPatel16/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/RituPatel16/LeetCode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/RituPatel16/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RituPatel16/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RituPatel16/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/RituPatel16/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/RituPatel16/LeetCode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/RituPatel16/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/RituPatel16/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/RituPatel16/LeetCode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/RituPatel16/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/RituPatel16/LeetCode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/RituPatel16/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/RituPatel16/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/RituPatel16/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
