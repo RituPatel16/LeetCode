@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/RituPatel16/LeetCode/tree/master/0595-big-countries) |
 | [0601-human-traffic-of-stadium](https://github.com/RituPatel16/LeetCode/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/RituPatel16/LeetCode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0619-biggest-single-number](https://github.com/RituPatel16/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/RituPatel16/LeetCode/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/RituPatel16/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/RituPatel16/LeetCode/tree/master/1070-product-sales-analysis-iii) |
