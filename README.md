@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/RituPatel16/LeetCode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/RituPatel16/LeetCode/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RituPatel16/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0796-rotate-string](https://github.com/RituPatel16/LeetCode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/RituPatel16/LeetCode/tree/master/0819-most-common-word) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RituPatel16/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1544-make-the-string-great](https://github.com/RituPatel16/LeetCode/tree/master/1544-make-the-string-great) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RituPatel16/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/RituPatel16/LeetCode/tree/master/0796-rotate-string) |
 ## Math
 |  |
 | ------- |
