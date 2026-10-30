@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RituPatel16/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RituPatel16/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RituPatel16/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/RituPatel16/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/RituPatel16/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/RituPatel16/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/RituPatel16/LeetCode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/RituPatel16/LeetCode/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/RituPatel16/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/RituPatel16/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0796-rotate-string](https://github.com/RituPatel16/LeetCode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/RituPatel16/LeetCode/tree/master/0819-most-common-word) |
