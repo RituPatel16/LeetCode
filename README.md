@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/RituPatel16/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/RituPatel16/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RituPatel16/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0633-sum-of-square-numbers](https://github.com/RituPatel16/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/RituPatel16/LeetCode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/RituPatel16/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/RituPatel16/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/RituPatel16/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0633-sum-of-square-numbers](https://github.com/RituPatel16/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/RituPatel16/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/RituPatel16/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/RituPatel16/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/RituPatel16/LeetCode/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/RituPatel16/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/RituPatel16/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/RituPatel16/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RituPatel16/LeetCode/tree/master/1025-divisor-game) |
