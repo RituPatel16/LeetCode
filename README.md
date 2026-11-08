@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/RituPatel16/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/RituPatel16/LeetCode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/RituPatel16/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1267-count-servers-that-communicate](https://github.com/RituPatel16/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RituPatel16/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RituPatel16/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RituPatel16/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RituPatel16/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/RituPatel16/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/RituPatel16/LeetCode/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/RituPatel16/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/RituPatel16/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/RituPatel16/LeetCode/tree/master/0169-majority-element) |
 | [0819-most-common-word](https://github.com/RituPatel16/LeetCode/tree/master/0819-most-common-word) |
+| [1267-count-servers-that-communicate](https://github.com/RituPatel16/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RituPatel16/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/RituPatel16/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RituPatel16/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/RituPatel16/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RituPatel16/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RituPatel16/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1267-count-servers-that-communicate](https://github.com/RituPatel16/LeetCode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -452,4 +456,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RituPatel16/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/RituPatel16/LeetCode/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/RituPatel16/LeetCode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
