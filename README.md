@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/RituPatel16/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/RituPatel16/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RituPatel16/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/RituPatel16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RituPatel16/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RituPatel16/LeetCode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RituPatel16/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/RituPatel16/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/RituPatel16/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RituPatel16/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/RituPatel16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RituPatel16/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RituPatel16/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RituPatel16/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/RituPatel16/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/RituPatel16/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RituPatel16/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/RituPatel16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/RituPatel16/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RituPatel16/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/RituPatel16/LeetCode/tree/master/0389-find-the-difference) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RituPatel16/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/RituPatel16/LeetCode/tree/master/0229-majority-element-ii) |
 | [0819-most-common-word](https://github.com/RituPatel16/LeetCode/tree/master/0819-most-common-word) |
 | [1267-count-servers-that-communicate](https://github.com/RituPatel16/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/RituPatel16/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -464,4 +468,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/RituPatel16/LeetCode/tree/master/1267-count-servers-that-communicate) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/RituPatel16/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
