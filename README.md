@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RituPatel16/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/RituPatel16/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RituPatel16/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/RituPatel16/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2747-count-zero-request-servers](https://github.com/RituPatel16/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/RituPatel16/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/RituPatel16/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/RituPatel16/LeetCode/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/RituPatel16/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/RituPatel16/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/RituPatel16/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2747-count-zero-request-servers](https://github.com/RituPatel16/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RituPatel16/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RituPatel16/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/RituPatel16/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/RituPatel16/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/RituPatel16/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/RituPatel16/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RituPatel16/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
