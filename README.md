@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/RituPatel16/LeetCode/tree/master/0796-rotate-string) |
 | [0819-most-common-word](https://github.com/RituPatel16/LeetCode/tree/master/0819-most-common-word) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/RituPatel16/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/RituPatel16/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RituPatel16/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/RituPatel16/LeetCode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/RituPatel16/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/RituPatel16/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/RituPatel16/LeetCode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RituPatel16/LeetCode/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/RituPatel16/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/RituPatel16/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/RituPatel16/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1927-sum-game](https://github.com/RituPatel16/LeetCode/tree/master/1927-sum-game) |
@@ -456,10 +458,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/RituPatel16/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RituPatel16/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/RituPatel16/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RituPatel16/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Heap (Priority Queue)
 |  |
