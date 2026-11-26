@@ -1,0 +1,19 @@
+
+class Solution {
+    public boolean canAliceWin(int n) {
+        int div = 10;
+        int count = 0;
+
+        while(n >= div) {
+            n = n - div;
+            div--;
+            count++;
+        }
+
+        if(count % 2 == 0) {
+            return false;
+        }
+
+        return true;
+    }
+}
